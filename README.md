@@ -1,5 +1,5 @@
 # AnimateParticle-Tool
-This is a Maya tool to help animate a particle. This has two options, either animate by parenting or by motion path.
+This is a Maya tool to help animate a particle. This has two options, either animate by parenting or by motion path. For Maya 2019. 
 
     Scott Hawley    
     
@@ -16,3 +16,4 @@ This is a Maya tool to help animate a particle. This has two options, either ani
     Parent: Selecting the object will spawn and position the particle emitter on a section of
     the geometry. It can be moved after creation to the desired location. 
    
+To call this tool, you can run the name or add it to a script calling program. Otherwise uncomment the #main() that is under testing at the bottom of the code to run it in the script editor.
